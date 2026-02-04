@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/cc10f10f-85ba-40f4-92f4-6decb487053d" />
+<img width="2646" height="1476" alt="Image" src="https://github.com/user-attachments/assets/4f93bc3e-beab-40d7-baf5-03a41e1955be" />
 
 ## Network Security Fundamentals: Firewalls & Intrusion Detection Systems
 
