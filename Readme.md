@@ -1,8 +1,8 @@
+<img width="2752" height="1536" alt="Image" src="https://github.com/user-attachments/assets/cc10f10f-85ba-40f4-92f4-6decb487053d" />
 
+## Network Security Fundamentals: Firewalls & Intrusion Detection Systems
 
-# Network Security Fundamentals: Firewalls & Intrusion Detection Systems
-
-## 📌 Project Overview
+## Project Overview
 This project focuses on understanding core network security fundamentals by exploring how Firewalls, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS) protect enterprise networks from cyber threats.
 As a intern, this project helped me bridge the gap between theoretical networking concepts and real-world SOC and enterprise security environments.
 
@@ -33,5 +33,5 @@ As a intern, this project helped me bridge the gap between theoretical networkin
 - Improved SOC-level thinking and defensive mindset
 - Hands-on experience documenting security architectures
 
-## ✍️ Author
+## Author
 Sudhir Bhat  
